@@ -17,7 +17,7 @@ From this link, you can view the entire project video.
 https://drive.google.com/file/d/1rxHl-83QwbXfY-pShLTLfHSvINvRqTHc/view?usp=sharing
 
 # Features
-1- Fully converted from a static website to a Laravel website. https://startbootstrap.com/theme/personal This is the original website link.
-2- Designed a database according to exact given design. https://drive.google.com/file/d/14AfuWsc0YyCEYYG3PDdqL3xcH8VqrcTo/view?usp=sharing. This is the database design.
-3- Created a form  to submit and show with the session response.
-4- Added cookie and file upload feature.
+* Fully converted from a static website to a Laravel website. https://startbootstrap.com/theme/personal This is the original website link.
+* Designed a database according to exact given design. https://drive.google.com/file/d/14AfuWsc0YyCEYYG3PDdqL3xcH8VqrcTo/view?usp=sharing. This is the database design.
+* Created a form  to submit and show with the session response.
+* Added cookie and file upload feature.
