@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-tion](https://laravel.com/docs/contributions).
+
 
 # Exam Week3
 This is a complete project for Exam Week 3 on the Ostad platform.
